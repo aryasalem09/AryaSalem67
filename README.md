@@ -3,19 +3,11 @@
 
 ##  About Me
 -  Working on: [SLHS Hack Club Website](https://github.com/aryasalem09/SLHS-HackClub-Website)
--  Learning: React, Spring Boot
+-  Learning: Vue, Go, Fortran?
 
 ---
 
-##  Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-##  GitHub Stats
+## Stats
 ![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryasalem09&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasalem09&layout=compact&theme=tokyonight)
 
