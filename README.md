@@ -2,9 +2,9 @@
 ---
 
 ##  About Me
--  Working on: [heh]
 -  Learning: Vue, Go, Fortran?
-
+-  [![trophy](https://github-profile-trophy.vercel.app/?username=aryasalem09)](https://github.com/ryo-ma/github-profile-trophy)
+-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ##  Activity
