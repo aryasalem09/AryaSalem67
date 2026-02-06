@@ -4,7 +4,8 @@
 ##  About Me
 -  Learning: Vue, Go, Fortran?
 -  [![trophy](https://github-profile-trophy.vercel.app/?username=aryasalem09)](https://github.com/ryo-ma/github-profile-trophy)
--  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
+-  [![trophy](https://github-profile-trophy.vercel.app/?username=aryasalem09&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasalem09&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ##  Activity
