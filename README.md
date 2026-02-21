@@ -9,13 +9,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - people say im a nice guy... i don't know.. i just try to be me 😘
 
 ---
 
-## 📈 Activity
+##  Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryasalem09&theme=tokyo-night&hide_border=true" />
@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryasalem09&show_icons=true&theme=tokyonight&hide_border=true" />
