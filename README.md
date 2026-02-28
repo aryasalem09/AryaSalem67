@@ -25,10 +25,7 @@
 
 ##  Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryasalem09&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryasalem09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+not workin??? ill fix it later
 
 ---
 
