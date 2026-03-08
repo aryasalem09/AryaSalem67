@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://aryas-site.vercel.app](https://arya189.vercel.app/)"> Personal Site!</a> 
+  <a href="https://arya189.vercel.app/"> Personal Site!</a> 
 </p>
 
 ---
