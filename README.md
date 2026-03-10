@@ -11,7 +11,8 @@
 
 ##  About Me
 
-- people say im a nice guy... i don't know.. i just try to be me 😘
+- I enjoy building tools and simulations that explore real-world systems, including data analysis models, Rust developer tools, and interactive web applications, take a look around my repositories!
+- My projects are often focused on applying programming to problems in science, engineering, and data, but I make fun stuff every once in a while.
 
 ---
 
@@ -25,7 +26,7 @@
 
 ##  Stats
 
-not workin??? ill fix it later
+not working as of now...
 
 ---
 
